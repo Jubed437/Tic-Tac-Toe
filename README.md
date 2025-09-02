@@ -21,6 +21,4 @@ It was created to understand the basics of **DOM manipulation, event handling, a
 
 
 ## Live Demo
-- Start Playing 
-<br>
-[text](https://jubed437.github.io/Tic-Tac-Toe/)
+- Start Playing  https://jubed437.github.io/Tic-Tac-Toe/
